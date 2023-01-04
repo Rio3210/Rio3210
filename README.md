@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Restaurant_Web_app**
 
-- 🌱 I’m currently learning **NodeJS and express**
+- 🌱 I’m currently learning **NestJs**
 
 - 💬 Ask me about **Python, Java, JavaScript, mysql**
 

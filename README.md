@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/rio3210_" target="blank"><img src="https://img.shields.io/twitter/follow/rio3210_?logo=twitter&style=for-the-badge" alt="rio3210_" /></a> </p>
 
-- 🔭 I’m currently working on **Restaurant_Web_app**
+- 🔭 I’m currently working on **Book Store**
 
-- 🌱 I’m currently learning **NestJs**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python, Java, JavaScript, mysql**
+- 💬 Ask me about **Python, Java, NestJs,JavaScript, mysql**
 
 - 📫 How to reach me **surafelwork32@gmail.com**
 

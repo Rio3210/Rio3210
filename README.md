@@ -149,7 +149,7 @@ Tiny loops for serious AI work—focused on repeatable experimentation and pract
 **Backend:** NestJS, Node.js, FastAPI, ASP.NET Core, REST APIs, WebSockets  
 **Frontend:** React, Next.js, Angular  
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Infrastructure:** Docker, GitHub Actions, Google Cloud Platform, Git, Linux  
+**Infrastructure:** Docker, GitHub Actions, Google Cloud Platform, AWS, Git, Linux  
 **Architecture:** Microservices, Monorepos, Distributed Systems, Real-Time Systems, CI/CD
 
 ---

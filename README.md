@@ -180,22 +180,6 @@ Completed foundational machine-learning training covering supervised learning, r
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Rio3210&show_icons=true&hide_border=true&theme=transparent&title_color=00a86b&icon_color=00a86b"
-    alt="Surafel's GitHub statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rio3210&layout=compact&hide_border=true&theme=transparent&title_color=00a86b"
-    alt="Most used languages"
-  />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
